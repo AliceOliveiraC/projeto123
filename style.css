@@ -1,0 +1,16 @@
+button
+{
+    background-color: rgb(166, 134, 236);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 15px 20px; 
+    font-size: 80px;   
+    border-radius: 15%;
+    color: cornsilk;
+}
+
+canvas {
+    border:1px solid black;
+  
+
+
+}
